@@ -57,10 +57,14 @@ The predicted results have been saved in the `predicted_data.csv` file.
 All the results are shown in Image Folders:
 For example:
 CNN_LSTM predicted error
+
 <img src="https://github.com/Albus-Misrandy/TUM_Predictive_Maintenance/blob/main/Image/CNN_LSTM_Regression_Error.png" width="500">
 
+
 CNN_Transformer predicted error
+
 <img src="https://github.com/Albus-Misrandy/TUM_Predictive_Maintenance/blob/main/Image/CNN_Transformer_Regression_Error.png" width="500">
+
 ## Project Structure
 
 ```
